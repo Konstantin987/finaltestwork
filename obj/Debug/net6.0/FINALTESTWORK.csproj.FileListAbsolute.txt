@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.AssemblyInfo.cs
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FINALTESTWORK\bin\Debug\net6.0\FINALTESTWORK.exe
+C:\Users\User\Desktop\FINALTESTWORK\bin\Debug\net6.0\FINALTESTWORK.deps.json
+C:\Users\User\Desktop\FINALTESTWORK\bin\Debug\net6.0\FINALTESTWORK.runtimeconfig.json
+C:\Users\User\Desktop\FINALTESTWORK\bin\Debug\net6.0\FINALTESTWORK.dll
+C:\Users\User\Desktop\FINALTESTWORK\bin\Debug\net6.0\FINALTESTWORK.pdb
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.dll
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\refint\FINALTESTWORK.dll
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.pdb
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\FINALTESTWORK.genruntimeconfig.cache
+C:\Users\User\Desktop\FINALTESTWORK\obj\Debug\net6.0\ref\FINALTESTWORK.dll
